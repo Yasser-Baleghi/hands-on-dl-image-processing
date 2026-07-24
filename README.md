@@ -1,6 +1,6 @@
 # Hands-on Deep Learning based Image Processing using Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/index.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yasser-Baleghi/hands-on-dl-image-processing/blob/master/index.ipynb)
 
 ---
 
@@ -43,7 +43,7 @@ Whether you are:
 
 ### Start from the Index Notebook
 
-👉 **[Click here to open the master index in Colab](https://colab.research.google.com/github/Yasser-Baleghi/hands-on-dl-image-processing/blob/main/index.ipynb)**
+👉 **[Click here to open the master index in Colab](https://colab.research.google.com/github/Yasser-Baleghi/hands-on-dl-image-processing/blob/master/index.ipynb)**
 
 The index notebook contains links to all chapters and serves as your central navigation hub.
 
